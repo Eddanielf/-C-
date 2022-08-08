@@ -1,0 +1,8 @@
+D:\C#\С#. Базовый Курс\Lesson1\Homework\bin\Debug\Homework.exe.config
+D:\C#\С#. Базовый Курс\Lesson1\Homework\bin\Debug\Homework.exe
+D:\C#\С#. Базовый Курс\Lesson1\Homework\bin\Debug\Homework.pdb
+D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework1.csproj.AssemblyReference.cache
+D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework1.csproj.SuggestedBindingRedirects.cache
+D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework.exe
+D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework.pdb
