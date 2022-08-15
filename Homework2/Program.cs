@@ -210,6 +210,8 @@ namespace Homework2
         static void Task6()
         {
             Console.WriteLine("6. Поиск хороших чисел \n");
+            Console.WriteLine("Нажмите любую клавишу, чтобы начать поиск хороших чисел от 0 до 100000000");
+            Tools.Pause();
             DateTime start = DateTime.Now;
 
             int i;

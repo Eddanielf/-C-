@@ -27,5 +27,10 @@ namespace Homework.Utilities
             return (m / (h * h));
         }
 
+        public static bool isOdd(int n) 
+        {
+            return n % 2 == 1;
+        }
+
     }
 }
