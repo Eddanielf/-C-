@@ -6,3 +6,11 @@ D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework1.csproj.S
 D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
 D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework.exe
 D:\C#\С#. Базовый Курс\Lesson1\Homework\obj\Debug\Homework.pdb
+D:\C#\СSharp\Vasileva.Homework\-C-\Homework\bin\Debug\Homework.exe.config
+D:\C#\СSharp\Vasileva.Homework\-C-\Homework\bin\Debug\Homework.exe
+D:\C#\СSharp\Vasileva.Homework\-C-\Homework\bin\Debug\Homework.pdb
+D:\C#\СSharp\Vasileva.Homework\-C-\Homework\obj\Debug\Homework1.csproj.AssemblyReference.cache
+D:\C#\СSharp\Vasileva.Homework\-C-\Homework\obj\Debug\Homework1.csproj.SuggestedBindingRedirects.cache
+D:\C#\СSharp\Vasileva.Homework\-C-\Homework\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+D:\C#\СSharp\Vasileva.Homework\-C-\Homework\obj\Debug\Homework.exe
+D:\C#\СSharp\Vasileva.Homework\-C-\Homework\obj\Debug\Homework.pdb
